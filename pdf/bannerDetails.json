@@ -1,0 +1,50 @@
+{
+  "background": {
+    "image": "./assets/offerBackground.png",
+    "position": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "products": [
+    {
+      "name": "Gulab Jamun",
+      "image":"./assets/gulabjamun.png",
+      "url": "https://shop.frendy.in/#/product-detail?productId=12362",
+      "position": {
+        "x": 20,
+        "y": 700
+      },
+      "dimensions": {
+        "height": 200,
+        "width": 200
+      }
+    },
+    {
+      "name": "Knor Soup",
+      "image":"./assets/knorSoup.png",
+      "url": "https://shop.frendy.in/#/product-detail?productId=901",
+      "position": {
+        "x": 230,
+        "y": 700
+      },
+      "dimensions": {
+        "height": 200,
+        "width": 200
+      }
+    },
+    {
+      "name": "Madras Chakki",
+      "image":"./assets/madrasChakki.png",
+      "url": "https://shop.frendy.in/#/product-detail?productId=11557",
+      "position": {
+        "x": 450,
+        "y": 700
+      },
+      "dimensions": {
+        "height": 200,
+        "width": 200
+      }
+    }
+  ]
+}
