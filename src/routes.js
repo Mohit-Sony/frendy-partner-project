@@ -36,6 +36,8 @@ import PartnerAppCardGenerated from "./components/NurseryProject/PartnerAppCardG
 import PartnerAppCreatives from "./components/NurseryProject/Creatives";
 import Test from "./components/Test";
 
+import NewProductList from "./components/NewApp/NewProductList";
+
 export const routes = [
   { path: "/", component: AppNavigation },
   { path: "/cart", component: cart },
@@ -73,6 +75,6 @@ export const routes = [
   { path: "/partnerAppCardGenerated", component: PartnerAppCardGenerated },
   { path: "/partnerAppCreatives", component: PartnerAppCreatives },
   { path: "/test", component: Test },
-];
 
-// ab apun raja
+  { path: "/newProductList", component: NewProductList },
+];
