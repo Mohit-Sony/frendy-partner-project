@@ -72,5 +72,7 @@ export const routes = [
   { path: "/partnerAppCardCreation", component: PartnerAppCardCreation },
   { path: "/partnerAppCardGenerated", component: PartnerAppCardGenerated },
   { path: "/partnerAppCreatives", component: PartnerAppCreatives },
-  {path:"/test",component:Test}
+  { path: "/test", component: Test },
 ];
+
+// ab apun raja
